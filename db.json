@@ -1,0 +1,11 @@
+{
+  "bps": [
+    { "id": 282},
+    { "id": 284},
+    { "id": 327}
+  ],
+  "vehicles": [
+    { "id": 282, "description":"Superb 2018"},
+    { "id": 283, "description":"arteon 2018"}
+  ]
+}
